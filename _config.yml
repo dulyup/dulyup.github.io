@@ -9,7 +9,7 @@ location: 47°36'22.36"N, 122°19'55.45"W
 disqus: lyup
 
 highlighter: pygments
-markdown: redcarpet
+#markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
 
