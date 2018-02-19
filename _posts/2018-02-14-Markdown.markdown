@@ -1,0 +1,20 @@
+---
+title: Markdown Notes
+---
+
+Markdown 
+==
+Why Markdown?
+--
+* Solved the problem that .doc, .dox files cannot be opened normally in different versions, or the differences in typesetting seen by other people and authors can be significant.
+* Solved the problem that Windows system cannot open .page files.
+* Solved the problem that .txt documents cannot typeset.
+* Easily convert to .html, .ebu, .mobi, .epub
+
+Formatting Syntax
+--
+>http://wowubuntu.com/markdown/basic.html
+
+Others
+--
+ [ [Dingus]](https://daringfireball.net/projects/markdown/dingus) : Convert Markdown to XHTML
