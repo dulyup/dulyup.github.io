@@ -1,0 +1,13 @@
+---
+title: Git Notes
+---
+
+
+Cancel the version control by git
+--
+`git init` the whole root directory by accident, when run `git add`, there are so many unrelated files displaying in the untracked area. To cancel the version control, run:<br>
+`rm -rf .git`<br>
+Just remove .git documents to undo the git version control of the root directory. <br>
+For every git project, changes will only be saved in their own git project directory, so there's no effect on other .git folders. The only impact is the parent git projects are able to add, commit only after the sub git projects are submitted.
+
+
