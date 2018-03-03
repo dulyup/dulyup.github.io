@@ -8,7 +8,7 @@ email: dulyup@gmail.com
 location: 47°36'22.36"N, 122°19'55.45"W
 disqus: lyup
 
-highlighter: pygments
+highlighter: rouge
 #markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
