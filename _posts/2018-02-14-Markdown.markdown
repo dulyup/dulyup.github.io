@@ -18,3 +18,7 @@ Formatting Syntax
 Others
 --
  [ [Dingus]](https://daringfireball.net/projects/markdown/dingus) : Convert Markdown to XHTML
+
+Reference
+--
+[Markdown入门参考](http://xianbai.me/learn-md/article/about/readme.html)
